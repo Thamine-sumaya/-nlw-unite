@@ -29,9 +29,8 @@ Preparação do ambiente de desenvolvimento, conhecendo os principais fundamento
 ## Como Utilizar
 
 Para reproduzir os resultados ou experimentar com o código, siga estas etapas:
-
-1. Clone este repositório para o seu ambiente local usando `git clone`.
-2. Instale as dependências necessárias listadas no arquivo [`requirements.md`](https://github.com/Thamine-sumaya/-nlw-unite/blob/main/requeriments.md).
+ 
+1. Siga as instruções listadas no arquivo [`requirements.md`](https://github.com/Thamine-sumaya/-nlw-unite/blob/main/requeriments.md).
 3. Execute os códigos para reproduzir os resultados ou fazer modificações conforme necessário.
 
 ## Contribuição
