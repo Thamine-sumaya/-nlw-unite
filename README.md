@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="">
- <source media="(prefers-color-scheme: light)" srcset="">
- <img alt=" " src="prefers-color-scheme">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Thamine-sumaya/-nlw-unite/blob/main/srce/1.png?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Thamine-sumaya/-nlw-unite/assets/160533319/dee528d3-ed72-4046-b5b9-468736661401">
+ <img alt="<nlw/>unite" src="prefers-color-scheme">
 </picture>
 
 ## Visão Geral
@@ -21,20 +21,17 @@ Preparação do ambiente de desenvolvimento, conhecendo os principais fundamento
 ### Aula 3
 
 ## Ferramentas 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![Button Front-End editor](https://github.com/Thamine-sumaya/-nlw-unite/blob/main/srce/button%20front-end%20editor.png?raw=true)](https://www.fronteditor.dev)
 
 ## Como Utilizar
 
 Para reproduzir os resultados ou experimentar com o código, siga estas etapas:
 
 1. Clone este repositório para o seu ambiente local usando `git clone`.
-2. Instale as dependências necessárias listadas no arquivo [`requirements.md`]().
+2. Instale as dependências necessárias listadas no arquivo [`requirements.md`](https://github.com/Thamine-sumaya/-nlw-unite/blob/main/requeriments.md?plain=1).
 3. Execute os códigos para reproduzir os resultados ou fazer modificações conforme necessário.
 
 ## Contribuição
