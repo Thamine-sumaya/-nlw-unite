@@ -18,10 +18,10 @@ O objetivo principal deste projeto é desenvolver uma inteface de formulário de
 Preparação do ambiente de desenvolvimento, conhecendo os principais fundamentos para a construção do projeto.
 
 ### Aula 2
-Construção da estrutura do formulário em HTML e JS.
+Construção da estrutura e as funções do formulário em HTML e JS.
 
 ### Aula 3
-Finalização do projeto, em CSS.
+Finalização do projeto utilizando CSS.
 
 ## Ferramentas 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
