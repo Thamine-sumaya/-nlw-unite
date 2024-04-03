@@ -39,3 +39,8 @@ Para reproduzir os resultados ou experimentar com o código, siga estas etapas:
 ## Contribuição
 
 Esse projeto não está aberto para contribuições, é apenas uma demonstração dos conhecimentos adquiridos durante a trilha.
+
+## Exibição do projeto em sua forma final:
+![image](https://github.com/Thamine-sumaya/-nlw-unite/assets/160533319/4b8597db-0a17-49c8-b8d9-29fc1d0e01d0)
+
+
