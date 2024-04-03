@@ -10,21 +10,24 @@ Este repositório contém o código e os arquivos relacionados ao projeto execut
 
 ## Objetivo
 
-O objetivo principal deste projeto é desenvolver uma inteface de formulário de inscrição para um evento.
+O objetivo principal deste projeto é desenvolver uma inteface de formulário de inscrição.
+
+## Conteúdo da Trilha 
 
 ### Aula 1
 Preparação do ambiente de desenvolvimento, conhecendo os principais fundamentos para a construção do projeto.
 
 ### Aula 2
-
+Construção da estrutura do formulário em HTML e JS.
 
 ### Aula 3
+Finalização do projeto, em CSS.
 
 ## Ferramentas 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-[![Button Front-End editor](https://github.com/Thamine-sumaya/-nlw-unite/blob/main/srce/button%20front-end%20editor.png?raw=true)](https://www.fronteditor.dev)
+[![Button Front-End editor](https://github.com/maykbrito/fronteditorv2/blob/main/src/assets/logo.svg)](https://www.fronteditor.dev)
 
 ## Como Utilizar
 
