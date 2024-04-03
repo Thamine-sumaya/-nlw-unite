@@ -10,7 +10,7 @@ Para acessar o ambiente de excução clique no ícone abaixo:
 
 Para acessar os arquivos, clique nos respectivos ícones abaixo:
 
-[![Arquivo JS](https://github.com/Thamine-sumaya/-nlw-unite/assets/160533319/8dc76700-aad2-4f5d-8c4c-fd53fbf908a4)](https://github.com/Thamine-sumaya/-nlw-unite/blob/main/meuc%C3%B3digo.js) 
-[![Arquivo CSS](https://github.com/Thamine-sumaya/-nlw-unite/assets/160533319/f83d9112-5333-49b3-a4ae-1d93bc54a3c0)](https://github.com/Thamine-sumaya/-nlw-unite/blob/main/projeto.css)
-[![Arquivo HTML](https://github.com/Thamine-sumaya/-nlw-unite/assets/160533319/04c438d7-ce2f-4620-8096-3ebb9d5fb7d1)](https://github.com/Thamine-sumaya/-nlw-unite/blob/main/projeto.html) 
+[![Arquivo JS](https://github.com/Thamine-sumaya/-nlw-unite/assets/160533319/8dc76700-aad2-4f5d-8c4c-fd53fbf908a4)](https://github.com/Thamine-sumaya/-nlw-unite/blob/main/index.html) 
+[![Arquivo CSS](https://github.com/Thamine-sumaya/-nlw-unite/assets/160533319/f83d9112-5333-49b3-a4ae-1d93bc54a3c0)](https://github.com/Thamine-sumaya/-nlw-unite/blob/main/index.css)
+[![Arquivo HTML](https://github.com/Thamine-sumaya/-nlw-unite/assets/160533319/04c438d7-ce2f-4620-8096-3ebb9d5fb7d1)](https://github.com/Thamine-sumaya/-nlw-unite/blob/main/index.js) 
 
