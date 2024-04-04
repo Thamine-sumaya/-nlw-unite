@@ -5,7 +5,7 @@ Esse código foi escrito e executado em um ambiente online, portanto para a exec
 Para acessar o ambiente de excução clique no ícone abaixo:
 
 <a href="https://www.fronteditor.dev">
-   <img src="https://raw.githubusercontent.com/maykbrito/fronteditorv2/4fb26f1f5b04f3c9a63bb3b16dec3613f81d108d/src/assets/logo.svg" alt="front end editor" width="30" >
+   <img src="https://github.com/Thamine-sumaya/-nlw-unite/assets/160533319/dff91626-0439-4607-9790-fe7b47268d9d" alt="fronteditor" width="125" >
 </a>
 
 Para acessar os arquivos, clique nos respectivos ícones abaixo:
