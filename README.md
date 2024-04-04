@@ -27,7 +27,10 @@ Finalização do projeto utilizando CSS.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-[![Button Front-End editor](https://github.com/maykbrito/fronteditorv2/blob/main/src/assets/logo.svg)](https://www.fronteditor.dev)
+<a href="https://www.fronteditor.dev">
+   <img src="https://github.com/Thamine-sumaya/-nlw-unite/assets/160533319/04b7bdf1-570e-4d58-9cb9-1108f85fff89" alt="front end editor" width="150" >
+</a>
+
 
 ## Como Utilizar
 
